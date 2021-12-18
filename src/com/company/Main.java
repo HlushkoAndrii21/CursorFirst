@@ -18,8 +18,5 @@ public class Main {
         System.out.println(thirdResult);
         double fourthResult = X-e/2%e+1;
         System.out.println(fourthResult);
-        // git init - ініціалізація git репозиторію
-        // git add . - додати всы файли в git
-        // git commit -m "Message" - зробити коміт (занотувати зміни)
     }
 }
