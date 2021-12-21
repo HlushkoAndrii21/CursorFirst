@@ -10,13 +10,13 @@ public class Main {
         double w = 10;
         double X = 5;
         double e = 3;
-        double result = x+y-a/2*(x+w);
+        double result = x + y - a / 2 * (x + w);
         System.out.println(result);
-        double secondResult = a*(x+x)/y-a*3;
+        double secondResult = a * (x + x) / y - a * 3;
         System.out.println(secondResult);
-        double thirdResult = a+b/x-y;
+        double thirdResult = a + b / x - y;
         System.out.println(thirdResult);
-        double fourthResult = X-e/2%e+1;
+        double fourthResult = X - e / 2 % e + 1;
         System.out.println(fourthResult);
     }
 }
